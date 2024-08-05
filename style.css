@@ -124,7 +124,7 @@ section p {
 	text-align: center;
 }
 .banner-area .banner-img {
-	background-image: url(../Kindom-Movement/DSC9911.jpg);
+	background-image: url(background1.jpg);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -293,7 +293,7 @@ ul.about-content {
 /*msg area*/
 
 .msg-area {
-	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../Kindom-Movement/DSC0287.jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(background2.jpg);
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: center center;

@@ -293,7 +293,7 @@ ul.about-content {
 /*msg area*/
 
 .msg-area {
-	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(background2.jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: center center;
